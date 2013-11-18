@@ -14,7 +14,7 @@ Where $CONTAINER\_ID is the value displayed by the run script or by the 'docker 
 
 #### From local sources
 
-    git clone XXX
+    git clone https://github.com/chamerling/keystone.git
     sh ./run.sh
 
 #### From the docker registry
