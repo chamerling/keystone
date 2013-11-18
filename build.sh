@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t keystone .
+docker build -t chamerling/keystone .

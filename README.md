@@ -15,15 +15,12 @@ Where $CONTAINER\_ID is the value displayed by the run script or by the 'docker 
 #### From local sources
 
     git clone https://github.com/chamerling/keystone.git
+    sh ./build.sh
     sh ./run.sh
 
 #### From the docker registry
 
     docker run -d -t chamerling/keystone
-
-### Build
-
-    sh ./build.sh
 
 ## License
 
