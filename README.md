@@ -18,6 +18,8 @@ Or get port mapping with 'ps'
 
 ![Docker ps](http://f.cl.ly/items/2o2h2w0v0X443J0r0t2C/docker-keystone.png)
 
+### Install
+
 #### From local sources
 
     git clone https://github.com/chamerling/keystone.git
