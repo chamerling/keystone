@@ -29,6 +29,13 @@ Or get port mapping with 'ps'
 
     docker run -d -t chamerling/keystone
 
+### Publish image
+
+RTFM:
+
+    sudo docker login
+    sudo docker push chamerling/keystone
+
 ## License
 
 MIT
